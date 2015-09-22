@@ -1,0 +1,7 @@
+Change python i/o to string cut and sliceOK
+shorten OnPressEnter code using functions
+Eliminate write to cacheOK
+Fix bug which over-writes cache when enetring plaintext in decryptOK
+
+Pressing enter can distinguish between Encrypt, Decrypt and EmptyOK
+error checking of dataOK
